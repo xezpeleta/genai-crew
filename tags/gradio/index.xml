@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gradio on GenAI Crew</title>
+    <link>https://juananpe.github.io/genai-crew/tags/gradio/</link>
+    <description>Recent content in Gradio on GenAI Crew</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Apr 2025 10:00:00 +0100</lastBuildDate>
+    <atom:link href="https://juananpe.github.io/genai-crew/tags/gradio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gradio MCP Support: Building AI Tools in Just 5 Lines of Code</title>
+      <link>https://juananpe.github.io/genai-crew/posts/gradio-mcp-support/</link>
+      <pubDate>Wed, 30 Apr 2025 10:00:00 +0100</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/posts/gradio-mcp-support/</guid>
+      <description>&lt;h2 id=&#34;gradio-now-supports-the-model-context-protocol-mcp&#34;&gt;Gradio Now Supports the Model Context Protocol (MCP)&lt;/h2&gt;&#xA;&lt;p&gt;Exciting news from the world of AI development! &lt;a href=&#34;https://www.gradio.app/&#34;&gt;Gradio&lt;/a&gt;, the popular Python library used by more than 1 million developers each month to build interfaces for machine learning models, now officially supports the Model Context Protocol (MCP). This means that any Gradio app—whether it&amp;rsquo;s an image generator, tax calculator, or something entirely different—can now be called as a tool by Large Language Models (LLMs).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

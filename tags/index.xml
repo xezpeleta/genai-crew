@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on GenAI Crew</title>
+    <link>https://juananpe.github.io/genai-crew/tags/</link>
+    <description>Recent content in Tags on GenAI Crew</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Apr 2025 10:00:00 +0100</lastBuildDate>
+    <atom:link href="https://juananpe.github.io/genai-crew/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Tools</title>
+      <link>https://juananpe.github.io/genai-crew/tags/ai-tools/</link>
+      <pubDate>Wed, 30 Apr 2025 10:00:00 +0100</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/tags/ai-tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gradio</title>
+      <link>https://juananpe.github.io/genai-crew/tags/gradio/</link>
+      <pubDate>Wed, 30 Apr 2025 10:00:00 +0100</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/tags/gradio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://juananpe.github.io/genai-crew/tags/llm/</link>
+      <pubDate>Wed, 30 Apr 2025 10:00:00 +0100</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MCP</title>
+      <link>https://juananpe.github.io/genai-crew/tags/mcp/</link>
+      <pubDate>Wed, 30 Apr 2025 10:00:00 +0100</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/tags/mcp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Model Context Protocol</title>
+      <link>https://juananpe.github.io/genai-crew/tags/model-context-protocol/</link>
+      <pubDate>Wed, 30 Apr 2025 10:00:00 +0100</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/tags/model-context-protocol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>https://juananpe.github.io/genai-crew/tags/css/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>https://juananpe.github.io/genai-crew/tags/html/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://juananpe.github.io/genai-crew/tags/markdown/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themes</title>
+      <link>https://juananpe.github.io/genai-crew/tags/themes/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/tags/themes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>https://juananpe.github.io/genai-crew/tags/privacy/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/tags/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>https://juananpe.github.io/genai-crew/tags/shortcodes/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Text</title>
+      <link>https://juananpe.github.io/genai-crew/tags/text/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/tags/text/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emoji</title>
+      <link>https://juananpe.github.io/genai-crew/tags/emoji/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/tags/emoji/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
